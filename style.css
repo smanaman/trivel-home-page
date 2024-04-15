@@ -1,0 +1,632 @@
+body{
+    background-color: #a6a8ad;
+}
+
+.bgpic{
+    width: 100%;
+    /* height: 719px; */
+ height: 800px;
+    background-image: url("https://bespokeluxurytravel.com/wp-content/uploads/2018/02/Boat-with-Pink-Sky-2.jpg");
+    background-size: cover;
+    background-attachment: fixed;
+
+}
+.bgpic:hover{
+    background-image: url("	https://bespokeluxurytravel.com/wp-content/uploads/2018/02/Pier-Pink-Sky.jpg");
+    background-size: cover;
+}
+
+.navbar{
+    width: 100%;
+    height: 150px;
+    /* border: 1px solid black; */
+    display: flex;
+    justify-content: space-around;
+  
+    background-color: #a6a8ad;
+    position: fixed;
+    top: 0px;
+}
+.navbar:hover{
+    background-color: transparent;
+    color: aqua;
+  
+}
+.logo{
+    width: 15%;
+    height: 140px;
+    /* border: 1px solid black; */
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.div2{
+    width: 60%;
+    height: 120px;
+    /* border: 1px solid black; */
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+    justify-content: space-around;
+
+
+}
+.font_p{
+    font-family: inherit;
+    font-size: 20px;
+    font-weight: 400;
+    color: white;
+    /* border: 2px solid white; */
+     height: 50px;
+     display: flex;
+      justify-content: center;
+      align-items: center; 
+}
+.font_p:hover{
+    border-bottom:2px solid white;
+   
+}
+.paregraf{
+    width: 100%;
+    height: 800px;
+    border: 1px solid white;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    /* margin-top: 200px; */
+}
+.p1{
+    font-family: "Dancing Script", cursive;
+color: white;
+line-height: 10px;
+    font-size: 130px;
+   
+}
+.p2{
+    font-family: "Oswald", sans-serif;
+    font-size: 25px;
+    font-weight: 800;
+    color: white;
+    line-height: 50px;
+}
+
+
+
+                                                              /* baack ground over */
+
+.container{
+    width: 100%;
+    height: 300px;
+    /* border: 1px solid black; */
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.con_1{
+    font-family: "Dancing Script", cursive;
+    width: 100%;
+height: 100px;
+/* border: 1px solid black; */
+display: flex;
+justify-content: center;
+align-items: center;
+font-size: 50px;
+}
+
+.con_2{
+    font-family: 'Open Sans';
+    width: 100%;
+height: 50px;
+/* border: 1px solid black; */
+display: flex;
+justify-content: center;
+align-items: center;
+font-size: 20px;
+font-weight: 600;
+}
+                                                 /* .container_2 */
+
+.container_2{
+    width: 100%;
+    height: 835px;
+    /* border: 1px solid black; */
+    display: flex;
+}    
+.con2_1{
+    width: 60%;
+    height: 835px;
+    /* border: 1px solid black; */
+}    
+.con2_2{
+    width: 40%;
+    height: 835px;
+    /* border: 1px solid black;  */
+    display: flex;
+    justify-content: center;
+    background-color: #a6a8ad;
+    
+}    
+ .div1{
+    width: 80%;
+    height: 800px;
+    /* border: 1px solid black; */
+ }
+ .haeding{
+    font-family: "Dancing Script", cursive;
+    font-size: 50px;
+    color: white;
+}   
+.head{
+    border-bottom: 3px solid white;
+}    
+.con2_p{
+    font-size: 21px;
+    color: white;
+}    
+.button{
+    color: white;
+    background-color: #a6a8ad;
+
+}   
+                                                      /* .container3*/
+
+.container_3{
+    width: 100%;
+    height: 835px;
+    /* border: 1px solid black; */
+    display: flex;
+}    
+.con3_2{
+    width: 60%;
+    height: 835px;
+    /* border: 1px solid black; */
+}    
+.con3_1{
+    width: 40%;
+    height: 835px;
+    /* border: 1px solid black;  */
+    display: flex;
+    justify-content: center;
+    background-color: white;
+    
+}    
+.div3_1{
+    width: 80%;
+    height: 800px;
+}  
+.haeding2{
+    font-family: "Dancing Script", cursive;
+    font-size: 50px;
+    color: rgb(166, 168, 173);
+    
+}                                                 
+.head2{
+    border-bottom: 3px solid rgb(166, 168, 173);
+    
+}    
+.con3_p{
+    font-size: 21px;
+    color: rgb(166, 168, 173);
+}    
+.button2{
+    color: rgb(166, 168, 173);
+}
+                                                     /* .big_pic */
+
+.big_pic{ 
+width: 100%;
+height: 700px;
+/* border: 1px solid black; */
+background-image: url("https://bespokeluxurytravel.com/wp-content/uploads/2018/01/Mouse-On-Road-2.png");
+background-size: cover;
+font-family: "Dancing Script", cursive;
+}
+.big_p{
+    width: 100%;
+    height: 700px;
+    display: flex;
+    justify-content: center;
+align-items: center;
+font-size: 50px;
+color: white;
+}
+.big_pic:hover{
+    background-image: url("https://bespokeluxurytravel.com/wp-content/uploads/2018/01/Surfers-On-Beach.jpg");
+    background-size: cover;
+    
+}
+                                               /* last contain */
+.content{
+    width: 100%;
+    height: 700px;
+    /* border: 1px solid black; */
+    background-color: rgb(166, 168, 173);
+}   
+.content1{
+    width: 100%;
+    height: 150px;
+    /* border: 1px solid black; */
+    font-size: 40px;
+    color: white;
+    font-family: "Dancing Script", cursive;
+    display: flex;
+    justify-content: center;
+   
+}      
+.content2{
+    width: 100%;
+    height: 540px;
+    /* border: 1px solid black; */
+    margin-top: 50px;
+    display: flex;
+    justify-content: space-around;
+} 
+.content2_1{
+    width: 40%;
+    height: 540px;
+    /* border: 1px solid black; */
+    color: white;
+}        
+.content2_2{
+    width: 40%;
+    height: 540px;
+    /* border: 1px solid black; */
+    color: white;
+}   
+.content_p{
+    font-size: 20px;
+}                           
+.l_button{
+    width: 40%;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 3px solid white;
+    border-radius: 5px;
+    font-size: 19px;
+}
+.poster_main{
+    width: 100%;
+    height: 300px;
+    display: flex;
+    justify-content: center;
+    margin-top: 100px;
+}
+.poster{
+    width: 80%;
+    height: 300px;
+}
+                                            /* div_4 */
+
+.div_4{
+    width: 100%;
+    height: 330px;
+    /* border: 1px solid black; */
+    margin-top: 50px;
+    display: flex;
+    justify-content: space-between;
+    background-color: #676767;
+}    
+.div_1{
+    width: 42%;
+    height: 330px;
+    /* border: 1px solid black; */
+    
+}   
+.div_2{
+    width: 60%;
+    height: 330px;
+    /* border: 1px solid black;  */
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}   
+.img_3{
+    width: 32%;
+    height: 300px;
+    /* border: 1px solid black;  */
+}    
+.img_32{
+    width: 40%;
+    height: 300px;
+    /* border: 1px solid black;  */
+} 
+.img_33{
+    width: 25%;
+    height: 300px;
+    /* border: 1px solid black;  */
+}     
+.h1{
+    font-size: 50px;
+    color: white;
+    width: 50%;
+    height: auto;
+    /* border: 1px solid white; */
+    display: flex;
+    justify-content: center;
+}  
+.h2_2{
+    font-size: 35px;
+    color: white;
+    width: 100%;
+    height: auto;
+    /* border: 1px solid white; */
+    display: flex;
+    justify-content: center;
+}  
+.h2_3{
+    font-size: 50px;
+    color: white;
+    font-family: "Dancing Script", cursive;
+    width: 100%;
+    height: auto;
+    /* border: 1px solid white; */
+    display: flex;
+    justify-content: center;
+}
+
+                                               /* .container_6*/
+.container_img{
+    width: 100%;
+    height: 700px;
+    /* border: 1px solid black; */
+    background-image: url("https://www.wallart.com/media/catalog/product/cache/871f459736130e239a3f5e6472128962/w/0/w04349-small_1.jpg");
+    background-size: cover;
+}    
+
+                                        /* container_7 */
+.container_7{
+    width: 100%;
+    /* height: 50px; */
+    /* border: 1px solid black; */
+    font-size: 50px;
+    font-family: "Dancing Script", cursive;
+    text-align: center;
+    color: white;
+}   
+.container7_1{
+    width: 100%;
+    height: 20px;
+    /* border: 1px solid black; */
+    display: flex;
+}
+.con7_img{
+width: 40%;
+}  
+.con7_2{
+    width: 100%;
+    height: 520px;
+    /* border: 1px solid black; */
+    display: flex;
+    justify-content: space-around;
+    color: white;
+   
+    font-size: 19px;
+margin-top: 30px;
+} 
+.class1{
+    width: 40%;
+    height: 100%;
+    /* border: 1px solid black; */
+  
+}                                
+.class2{
+    width: 40%;
+    height: 100%;
+    /* border: 1px solid black; */
+}   
+.icon_img{
+    width: 30%;
+    height: 50px;
+    /* border: 1px solid white; */
+    display: flex;
+    justify-content: space-between;
+}  
+.icon_img1{
+    width: 30%;
+    height: 40px;
+    border-right: 2px solid white;
+}           
+.icon_img2{
+    width: 30%;
+    height: 40px;
+    border-right: 2px solid white;
+}  
+.icon_img3{
+    width: 30%;
+    height: 40px;
+    /* border: 1px solid white; */
+}    
+.class2{
+    color: white;
+}  
+.class_p{
+    font-weight: bold;
+}  
+input{
+    width: 80%;
+    height: 40px;
+} 
+.l_button2{
+    border: 2px solid white;
+     width: 20%;
+      height: 50px;
+      background-color: transparent;
+     
+      font-size: 20px;
+      font-weight: 500;
+      color: white;
+} 
+.placeholder{
+    padding: 15px;
+    height: 18px;
+    width: 90%;
+  background-color: #EFEFEF;
+    border: none;
+}
+.l_button2:hover{
+    background-color: #a6a8ad;
+}   
+                                     /* footer      */
+.inst_button{
+    width: 100%;
+    /* border: 1px solid black; */
+    display: flex;
+    justify-content: center;
+}
+.inst_button1{
+    width: 80%;
+    border-radius: 5px;
+    border: none;
+  
+}
+.footer{
+    width: 100%;
+    height: 790px;
+    /* border: 1px solid black; */
+    display: flex;
+    justify-content: center;
+    background-color: #a6a8ad;
+
+} 
+.footer_main{
+    width: 90%;
+    height: 790px;  
+    display: flex;
+    justify-content: space-around;
+    /* border: 1px solid black; */
+    background-color: #a6a8ad;
+
+}
+.footer_1{
+    width: 35%;
+    height: 100%;
+    /* border: 1px solid black; */
+}     
+.footer_2{
+    width: 20%;
+    height: 100%;
+    /* border: 1px solid black; */
+}   
+  .footer_3{
+    width: 20%;
+    height: 100%;
+    /* border: 1px solid black; */
+}   
+.footer_4{
+    width: 20%;
+    height: 100%;
+    /* border: 1px solid black; */
+}   
+.f_h{
+    font-family: Francois One;
+    color: white;
+}  
+.par_p{
+    font-size: 18px;
+    margin-top: 40px;
+    color: white;
+}  
+.sub_button{
+    width: 50%;
+    height: 50px;
+    border: 2px solid white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    font-size: 20px;
+    margin-top: 50px;
+}    
+.footer_31{
+    width: 100%;
+    height: 130px;
+    /* border: 1px solid black; */
+    display: flex;
+    justify-content: space-around;
+    margin-top: 20px;
+}    
+.fot_31{
+    width: 45%;
+    height: 100%;
+    /* border: 1px solid black; */
+}   
+.f_hl{
+    font-size: 18px;
+    font-family: Francois One;
+    color: white;
+}   
+.last_p{
+    font-size: 18px;
+    color: white;
+} 
+.last_div{
+    width: 100%;
+    height: 100px;
+    /* border: 1px solid black; */
+    background-color: #a6a8ad;
+}
+ .last_div1{
+    width: 47%;
+    height: 100%;
+    /* border: 1px solid black; */
+    display: flex;
+    justify-content: center;
+    background-color: #a6a8ad;
+ }
+ .and{
+    width: 100%;
+    background-color: #1c1c1c;
+  display: flex;
+  justify-content: space-between;
+    height: 70px;
+    /* border: 1px solid black; */
+ }
+ .and1{
+    width: 40%;
+    height: 70px;
+    /* border: 1px solid black; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+ }
+ .and2{
+    width: 20%;
+    height: 70px;
+    /* border: 1px solid black; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+ }
+ .l_img{
+    width: 15%;
+    height: 40px;
+    /* border: 1px solid wheat; */
+   display: flex;
+   justify-content: center;
+   align-items: center;
+ }
+                                                          /* upbutton */
+.upbutton{
+    width: 2%;
+    height: 30px;
+    border: 1px solid black;
+    border-radius: 50px;
+    background-color: transparent;
+    position: fixed;
+    top: 690px;
+    right: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   color: white;
+}     
+.upbutton:hover{
+    transform: scale(1.3);
+    background-color: aqua;
+}                                                     
